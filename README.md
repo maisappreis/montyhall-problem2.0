@@ -1,4 +1,8 @@
-# montyhall-problem
+# Montyhall Problem
+
+## My little project practing JavaScript with Vue.js.
+
+![Montyhall image](https://user-images.githubusercontent.com/108737091/180062316-b8b07aa9-9ba6-456f-864d-d14dbb16f266.png)
 
 ## Project setup
 ```
