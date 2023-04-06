@@ -15,11 +15,14 @@ import TheGift from "./TheGift.vue";
 
 export default {
     nome: "TheDoor",
+
     components: { TheGift },
+
     props: {
         number: {}, // number of doors
         hasGift: { type: Boolean }
     },
+    
     data: function() {
         return {
             open: false,      // the door starts closed and not selected
